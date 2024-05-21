@@ -2,7 +2,6 @@
 
 <img align="right" height="300" src="https://gifdb.com/images/high/the-matrix-neo-code-pobehqmcyw1e0c6z.gif" />
 
-
 # 👋 Hi, I'm Gizem Gülcü!
 
 ## About Me
