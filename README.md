@@ -1,3 +1,7 @@
+<div style="text-align: center;">
+  <img src="https://gifdb.com/images/high/the-matrix-neo-code-pobehqmcyw1e0c6z.gif" alt="The Matrix Neo Code GIF" width="500" height="300">
+</div>
+
 # 👋 Hi, I'm Gizem Gülcü!
 
 ## About Me
@@ -40,9 +44,9 @@
 - Deep Learning: 
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30"/>
-  </a> TensorFlow
+  </a> TensorFlow,
   <a href="https://keras.io/" target="_blank" rel="noreferrer">
-    <img src="https://keras.io/img/logo.png" alt="keras" width="35" height="30"/>
+    <img src="https://keras.io/img/logo.png" alt="keras" width="55" height="25"/>
   </a> Keras
 - Database Management: 
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
@@ -59,9 +63,31 @@
 - Advanced Machine Learning Techniques
 
 ## 📫 Contact
-- LinkedIn: [Gizem Gülcü](https://www.linkedin.com/in/gizemgulcu)
-- Kaggle: [Gizem Gülcü](https://www.kaggle.com/gizemglc)
-- Email: blondthunderbolt@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/gizem-gülcü-b529a9177/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="20" height="20"/>
+  </a>
+  LinkedIn: Gizem Gülcü (https://www.linkedin.com/in/gizem-gülcü-b529a9177/)
+</p>
+<p align="left">
+  <a href="https://www.kaggle.com/gizemglc" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" alt="Kaggle" width="20" height="20"/>
+  </a>
+  Kaggle: Gizem Gülcü (https://www.kaggle.com/gizemglc)
+</p>
+<p align="left">
+  <a href="mailto:blondthunderbolt@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="20" height="20"/>
+  </a>
+  Email: blondthunderbolt@gmail.com
+</p>
+<p align="left">
+  <a href="https://github.com/Blondphoenix" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="20" height="20"/>
+  </a>
+  GitHub: Gizem Gülcü (https://github.com/Blondphoenix)
+</p>
+
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Blondphoenix&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -79,5 +105,4 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-[![](https://visitcount.itsvg.in/api?id=Blondphoenix&icon=1&color=7)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=Blondphoenix&icon=1&color=1)](https://visitcount.itsvg.in)
