@@ -53,6 +53,15 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="30" height="30"/>
   </a> Git
 
+## 💡 Interests
+- AI and Ethics
+- Big Data Analytics
+- Advanced Machine Learning Techniques
+
+## 📫 Contact
+- LinkedIn: [Gizem Gülcü](https://www.linkedin.com/in/gizemgulcu)
+- Kaggle: [Gizem Gülcü](https://www.kaggle.com/gizemglc)
+- Email: blondthunderbolt@gmail.com
   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Blondphoenix&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -66,18 +75,9 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Blondphoenix&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Blondphoenix&icon=1&color=7)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## 📫 Contact
-- LinkedIn: [Gizem Gülcü](https://www.linkedin.com/in/gizemgulcu)
-- Kaggle: [Gizem Gülcü](https://www.kaggle.com/gizemglc)
-- Email: blondthunderbolt@gmail.com
 
-## 💡 Interests
-- AI and Ethics
-- Big Data Analytics
-- Advanced Machine Learning Techniques
+[![](https://visitcount.itsvg.in/api?id=Blondphoenix&icon=1&color=7)](https://visitcount.itsvg.in)
 
- 
