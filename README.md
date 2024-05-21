@@ -1,8 +1,6 @@
-<p align="center">
-  <img src="https://gifdb.com/images/high/the-matrix-neo-code-pobehqmcyw1e0c6z.gif" alt="The Matrix Neo Code GIF" width="500" height="300">
-</p>
-
-
+<div style="text-align: center;">
+    <img src="https://gifdb.com/images/high/the-matrix-neo-code-pobehqmcyw1e0c6z.gif" alt="Matrix GIF" style="width: 100%; height: auto; display: inline-block;">
+</div>
 
 # 👋 Hi, I'm Gizem Gülcü!
 
