@@ -1,5 +1,6 @@
-<img align="right" height="300" src="https://gifdb.com/images/high/the-matrix-neo-code-pobehqmcyw1e0c6z.gif" />
-<br clear="both">
+<p align="center">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDdmZWl6cW1kNWliejFlcnY0OHpjZWQ0MHI1MHBtcGJoMmd5d3lybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MC6eSuC3yypCU/giphy.gif" alt="İsteğe Bağlı Görüntü Açıklaması">
+</p>
 
 # 👋 Hi, I'm Gizem Gülcü!
 
