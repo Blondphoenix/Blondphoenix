@@ -104,6 +104,11 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Blondphoenix&icon=1&color=3)](https://visitcount.itsvg.in)
+<div align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=Blondphoenix&icon=1&color=3" alt="Visit Count">
+  </a>
+</div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
