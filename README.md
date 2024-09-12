@@ -14,6 +14,9 @@
 
 ## 🌟 Featured Projects
 - [📊 Clean and Analyze Employee Exit Surveys](https://www.kaggle.com/code/gizemglc/clean-and-analyze-employee-exit-surveys-1-0): A Kaggle project where I cleaned and analyzed employee exit surveys to derive valuable insights.
+- [🏫 Analyzing NYC High School Data](https://www.kaggle.com/code/gizemglc/analyzing-nyc-high-school-data): Analyzing the relationship between SAT scores and various socio-economic and real estate factors in NYC high schools.
+- [🌍 Global Climate Change & Renewable Energy in Adana](https://www.kaggle.com/code/gizemglc/global-climate-change-renewable-energy-in-adana): A project focusing on the impact of climate change and the potential of renewable energy in Adana.
+- [👟 Adidas US Sales Analysis](https://www.kaggle.com/code/gizemglc/adidas-us-sales-analysis): Analyzing sales data of Adidas products in the US to uncover key trends and insights.
 
 ## 🔧 Technical Skills
 - Programming Languages: 
