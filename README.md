@@ -88,7 +88,7 @@
   <a href="https://github.com/Blondphoenix" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="20" height="20"/>
   </a>
-  GitHub: Gizem Gülcü (https://github.com/Blondphoenix)
+  GitHub: Gizem Gülcü (https://github.com/zealcoder95)
 </p>
 
 # 📊 GitHub Stats:
