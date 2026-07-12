@@ -82,7 +82,7 @@
   <a href="mailto:blondthunderbolt@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Gmail" width="20" height="20"/>
   </a>
-  Email: blondthunderbolt@gmail.com
+  Email: gizemgulcu95@gmail.com
 </p>
 <p align="left">
   <a href="https://github.com/Blondphoenix" target="_blank" rel="noreferrer">
